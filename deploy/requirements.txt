@@ -68,7 +68,7 @@ mistune==0.8.3
 mlxtend==0.10.0
 mock==2.0.0
 more-itertools==2.2
-nbconvert==5.3.1
+nbconvert==6.3.0
 nbformat==4.4.0
 neptune-cli==2.7.1
 nltk==3.2.5
